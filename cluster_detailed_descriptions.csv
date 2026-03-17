@@ -1,0 +1,4 @@
+Method,Num_Clusters,Num_Outliers
+K-Means,4,0
+Hierarchical,4,0
+DBSCAN,2,79

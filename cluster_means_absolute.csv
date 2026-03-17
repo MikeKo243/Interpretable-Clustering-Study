@@ -1,0 +1,5 @@
+Cluster_ID,Anzahl_Kunden,Anteil_Prozent,Recency_Mean,Recency_Median,Frequency_Mean,Frequency_Median,Monetary_Mean,Monetary_Median,Monetary_Total,Umsatzanteil_Prozent
+0,837,19.29,18.12,17.0,2.15,2.0,551.82,471.7,461872.95,5.18
+1,716,16.51,12.13,8.0,13.71,10.0,8074.27,3733.87,5781175.08,64.87
+2,1173,27.04,71.08,56.0,4.08,4.0,1802.83,1345.62,2114718.42,23.73
+3,1612,37.16,182.5,177.0,1.32,1.0,343.45,298.25,553641.45,6.21
